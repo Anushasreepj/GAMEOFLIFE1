@@ -2,8 +2,7 @@ package rsp.gameoflife;
 
 import rsp.App;
 
-import rsp.jetty.JettyServer;
-import rsp.ref.TimerRef;
+import rsp.jetty.JettyServer;;
 import rsp.server.StaticResources;
 import rsp.stateview.ComponentView;
 
